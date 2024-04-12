@@ -19,7 +19,9 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body className={inter.className}>
-                <MantineProvider>{children}</MantineProvider>
+                <MantineProvider defaultColorScheme="light">
+                    {children}
+                </MantineProvider>
             </body>
         </html>
     );
