@@ -8,6 +8,7 @@ specifiers:
   '@types/react': ^18
   '@types/react-dom': ^18
   autoprefixer: ^10.0.1
+  clsx: ^2.1.0
   next: 14.1.4
   postcss: ^8.4.38
   postcss-preset-mantine: ^1.14.4
@@ -21,6 +22,7 @@ dependencies:
   '@mantine/core': 7.7.1_amk2lpsvcd5ptrpdooefxqmrx4
   '@mantine/form': 7.7.1_react@18.2.0
   '@mantine/hooks': 7.7.1_react@18.2.0
+  clsx: 2.1.0
   next: 14.1.4_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
